@@ -1,0 +1,51 @@
+<html>
+<title>Сленг</title>
+    <body style="background:LightGoldenrodYellow">
+     <header style="background-color:black"> 
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7uwDdz9yCoj6fCQ5JQhZZuAwwpYX1JC54Q&usqp=CAU"heigth="60px"width="70px">
+         <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B5%D0%BD%D0%B3">Подробнее о сленге
+         </a>
+     </header>
+     <main>
+         <h1 style="text-align:center;font-size:50px;background-color:Moccasin;">Что такое сленг?</h1>
+         <p style="font-size:20px"><b>Сленг (англ. slang)</b> — набор слов или новых значений существующих слов, употребляемых в различных группах.<br/>В английской лексикографии термин «сленг» получил широкое распространение приблизительно в начале XIX века. Этимология этого слова представляется спорной. На изучение сленга повлияла англоязычная культура.</p>
+         <p style="text-align:center;font-size:30px"> А так же по-моему мнению сленг делится на 2.</p>
+         <p style="text-align:center;font-size:20px">Давайте сравним их</p>
+         <table style="border:1x solid black;border-collapse:collapse">
+             <tr style="background-color:Moccasin">
+                 <td style="border:1px solid black;font-size:20px">Старый Сленг</td>
+                 <td style="border:1px solid black;font-size:20px">Новый сленг</td>
+            </tr>
+            <tr style="background-color:PapayaWhip">
+                <td style="border:1px solid black;font-size:20px">ствол (оружие, в другом значении - бутылка водки)</td>
+                <td style="border:1px solid black;font-size:20px">Байтить — провоцировать. Происходит от to bite — укусить</td>
+                </tr>
+                <tr style="background-color:PapayaWhip">
+                    <td style="border:1px solid black;font-size:20px">синька (алкоголь, как правило, некачественный)</td>
+                    <td style="border:1px solid black;font-size:20px">Пруф — подтверждение, доказательство, калька с proof (доказательство, англ.)</td>
+                    </tr>
+                    <tr style="background-color:PapayaWhip">
+                    <td style="border:1px solid black;font-size:20px">баунти (любовь)</td>
+                    <td style="border:1px solid black;font-size:20px">Кринж — знакомый нам «испанский стыд». Это калька с глагола to cringe — «поёживаться»</td>
+                    </tr>
+             </table>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UTMsSBk6Y3rVayJZZuQ7krwt-BFbyHzSCQ&usqp=CAU"height="500px" width="740px">
+             <p style="font-size:30px;text-align:center">Вот мы и сравнили два сленга разных его эпох.Давайте приведём итоги.</p>
+             <table style="border:1px solid black">
+                 <tr>
+                     <td style="border:1px solid black;border-collapse:collapse;font-size:20px">Схожести</td>
+                 <td style="border:1px solid black;border-collapse:collapse;font-size:20px">В обоих сленгах большая часть слов произошли от английскойского языка.Сленг слова созданы для сокращения проиношения слов(а) и очень полещны в экстренных случаях таке как"побег от охранника"  и т д.
+                 </td>
+                 </tr>
+                 <tr>
+                     <td style="border:1px solid black;border-collapse:collapse;font-size:20px">Различия</td>
+                     <td style="border:1px solid black;border-collapse:collapse;font-size:20px">различия лишь в названиях и смыслах.
+                     </td>
+                 </tr>
+                 </table>
+         </main>
+         <p></p>
+         <footer style="background-color:white">Не знаю что сюда написать,cоц.сети?та их у меня нет,ладно удачи.<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCqOUdrsyWzSm5a6Fqdr5NrnWDVxXB4MJiA&usqp=CAU"width="60px" heigth="70px">
+             </footer>
+         </body>
+</html>
